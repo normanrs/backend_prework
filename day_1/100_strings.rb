@@ -4,7 +4,6 @@ puts greeting[0..4]
 puts greeting[6..14]
 puts greeting[6..-1]
 puts greeting[6..-2]
-# puts greeting[6..0]
 puts greeting.length
 
 sentence = "This is my sample sentence."
